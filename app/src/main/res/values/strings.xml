@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationComponentAndroid14</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment_text">First</string>
+    <string name="second_fragment_text">Second</string>
+    <string name="third_fragment_text">Third</string>
+    <string name="go"><![CDATA[->]]></string>
+</resources>
